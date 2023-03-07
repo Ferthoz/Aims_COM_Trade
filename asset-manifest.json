@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Aims_COM_Trade/static/css/main.33df5b0d.css",
+    "main.js": "/Aims_COM_Trade/static/js/main.99c9c8d6.js",
+    "static/media/land-home.svg": "/Aims_COM_Trade/static/media/land-home.ccb88f2d894dd36d071a210026d5fbd7.svg",
+    "static/media/Contact1.png": "/Aims_COM_Trade/static/media/Contact1.82df4aeec9fdfd4a1a6b.png",
+    "static/media/Aims-logo.png": "/Aims_COM_Trade/static/media/Aims-logo.461e79af6580190a0cfb.png",
+    "static/media/Brand1.png": "/Aims_COM_Trade/static/media/Brand1.57488af47bab7c7b354f.png",
+    "index.html": "/Aims_COM_Trade/index.html",
+    "main.33df5b0d.css.map": "/Aims_COM_Trade/static/css/main.33df5b0d.css.map",
+    "main.99c9c8d6.js.map": "/Aims_COM_Trade/static/js/main.99c9c8d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33df5b0d.css",
+    "static/js/main.99c9c8d6.js"
+  ]
+}

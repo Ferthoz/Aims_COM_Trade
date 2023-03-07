@@ -3,12 +3,12 @@
     --header-clr-: #3C4EA2;
     --font-title: 40px;
     --font-heading: 48px;
-    --font-para:24px;
-    --font-clr:#3C4EA2;
-    --font-clr2:white;
-    --font-clr3:#263238;
-    --btn-clr:#EC2E35;
-    --font-para1:16px;
+    --font-para: 24px;
+    --font-clr: #3C4EA2;
+    --font-clr2: white;
+    --font-clr3: #263238;
+    --btn-clr: #EC2E35;
+    --font-para1: 16px;
 }
 
 
@@ -18,40 +18,48 @@
     background-color: var(--header-clr-);
     display: flex;
     justify-content: space-between;
+    background-color: red;
+    background-image: linear-gradient(#3C4EA2, #002333);
     /* border: 1px solid black; */
     /* align-items: center;
     justify-content: center; */
 }
-.Aims-logo img{
-    width:100px;
-    margin-left:50px;
+
+.Aims-logo img {
+    width: 100px;
+    margin-left: 50px;
 
 }
-.Menu-list{
+
+.Menu-list {
     display: flex;
     list-style: none;
-    
+
 }
-.Menu{
+
+.Menu {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-right:50px;
-  
+    margin-right: 50px;
+
 }
-.Menu a{
-    margin-right:20px ;
+
+.Menu a {
+    margin-right: 20px;
     padding: 10px 20px;
     /* border: 1px solid red; */
-    color:  var(--font-clr2);
+    color: var(--font-clr2);
     border-radius: 5px;
     font-size: var(--font-para1);
-   
+
 }
-.Home:hover{
+
+.Home:hover {
     background-color: var(--btn-clr);
     transition: all .25s ease-in-out;
 }
+
 .menu-icon {
     display: none;
 }
@@ -87,7 +95,7 @@
         color: white;
         display: flex;
         align-items: center;
-        margin-right:15px; 
-        font-size:40px ;
+        margin-right: 15px;
+        font-size: 40px;
     }
 }

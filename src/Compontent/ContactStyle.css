@@ -3,7 +3,7 @@
 .Contact-container {
     background-color: #FFCB9A;
     position: relative;
-    top: 68px;
+    top: 0px;
 
 }
 
@@ -32,7 +32,7 @@
 }
 
 .cont-right img {
-    width: 160%;
+    width: 170%;
 
 }
 
